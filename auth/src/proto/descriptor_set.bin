@@ -1,0 +1,10 @@
+
+è
+src/proto/auth.protoauth"J
+UserLoginRequest
+username (	Rusername
+password (	Rpassword"-
+UserLoginResponse
+success (Rsuccess2G
+UserService8
+Login.auth.UserLoginRequest.auth.UserLoginResponsebproto3
